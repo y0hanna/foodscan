@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "454676210718",
+    "project_id": "kassenzettel-app",
+    "storage_bucket": "kassenzettel-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454676210718:android:58765f0053745311357a0f",
+        "android_client_info": {
+          "package_name": "com.johanna.kassenzettel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454676210718-8sc3vnq3d5bhp7qk554jf9d49qi7u7es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFY2kHuY5v1OIvvyNbbyKhmDXnToegbiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454676210718-8sc3vnq3d5bhp7qk554jf9d49qi7u7es.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "454676210718-6jq8ppnp0rpb2qcj91fv8c30f2iulj1q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.johanna.kassenzettelApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
